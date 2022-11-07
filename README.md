@@ -12,7 +12,7 @@ Provide a short description explaining the what, why, and how of your project. U
 
 ## Installation
 
-we need create a repository using github and then follow the git steps to create a file on desktop to create a remote branch so we can save any changes we do in vs code and to be visible to other team member.
+we need to create a repository using github and then follow the git steps to create a file on desktop to create a remote branch so we can save any changes we do in vs code and to be visible to other team member.
 
 ## Usage
 
